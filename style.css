@@ -160,12 +160,12 @@ a
 
 .button__message::after
 {
-    content: "Có";
+    content: "Cóe";
 }
 
 .button__message:hover:after
 {
-    content: "Không";
+    content: "Khum";
 }
 
 .col_third
